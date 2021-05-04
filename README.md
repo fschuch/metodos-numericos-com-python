@@ -17,6 +17,7 @@ Esta palestra tem por objetivo introduzir os principais conceitos de programaç�
 Esse tutorial foi projetado para rodar no [Binder](https://mybinder.org/).
 O serviço permite executar totalmente na nuvem, nenhuma instalação extra é necessária.
 Para tanto, basta clicar [aqui](https://mybinder.org/v2/gh/fschuch/metodos-numericos-com-python/main?urlpath=lab):
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fschuch/metodos-numericos-com-python/main?urlpath=lab)
 
 Se você prefere instalar o tutorial localmente, siga os seguintes passos:
@@ -51,4 +52,4 @@ Se você prefere instalar o tutorial localmente, siga os seguintes passos:
 
 [BSD-3-Clause License](https://github.com/fschuch/metodos-numericos-com-python/blob/main/LICENSE).
 
-© 2021 Felipe N. Schuch. All rights reserved.
+© 2021 Felipe N. Schuch. Todos os direitos reservados.

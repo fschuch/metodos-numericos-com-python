@@ -12,6 +12,7 @@ dependencies:
   - pip
   - pint
   - black
+  - tqdm
   - pip:
     - expectexception
     - ipympl
